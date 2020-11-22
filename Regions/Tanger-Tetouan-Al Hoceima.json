@@ -1,0 +1,286 @@
+[
+    {
+      "region-id": 1,
+      "region-name": "Tanger-Tetouan-Al Hoceima",
+      "cities": [
+        {
+          "names": {
+            "ar": "عين دريج",
+            "en": "Ain Dorij",
+            "fr": "Aïn Dorij"
+          }
+        },
+        {
+          "names": {
+            "ar": "إمزورن",
+            "en": "Imzouren",
+            "fr": "Imzouren"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Inahnahen",
+            "fr": "Inahnahen"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Issaguen (Ketama)",
+            "fr": "Issaguen (Ketama)"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Tala Tazegwaght",
+            "fr": "Tala Tazegwaght"
+          }
+        },
+        {
+          "names": {
+            "ar": "تمسينت",
+            "en": "Tamassint",
+            "fr": "Tamassint"
+          }
+        },
+        {
+          "names": {
+            "ar": "تارجيست",
+            "en": "Targuist",
+            "fr": "Targuist"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Stehat",
+            "fr": "Stehat"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Taghzout",
+            "fr": "Taghzout"
+          }
+        },
+        {
+          "names": {
+            "ar": "طنجة",
+            "en": "Tanger",
+            "fr": "Tanger"
+          }
+        },
+        {
+          "names": {
+            "ar": "تطوان",
+            "en": "Tetouan",
+            "fr": "Tétouan"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Akchour",
+            "fr": "Akchour"
+          }
+        },
+        {
+          "names": {
+            "ar": "أصيلة",
+            "en": "Assilah",
+            "fr": "Assilah"
+          }
+        },
+        {
+          "names": {
+            "ar": "باب برد",
+            "en": "Bab Berred",
+            "fr": "Bab Berred"
+          }
+        },
+        {
+          "names": {
+            "ar": "باب تازة",
+            "en": "Bab Taza",
+            "fr": "Bab Taza"
+          }
+        },
+        {
+          "names": {
+            "ar": "بريكشة",
+            "en": "Brikcha",
+            "fr": "Brikcha"
+          }
+        },
+        {
+          "names": {
+            "ar": "شفشاون",
+            "en": "Chefchaouen",
+            "fr": "Chefchaouen"
+          }
+        },
+        {
+          "names": {
+            "ar": "دار بن كريش",
+            "en": "Dar Bni Karrich",
+            "fr": "Dar Bni Karrich"
+          }
+        },
+        {
+          "names": {
+            "ar": "دار شاوي",
+            "en": "Dar Chaoui",
+            "fr": "Dar Chaoui"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Fnideq",
+            "fr": "Fnideq"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Gueznaia",
+            "fr": "Gueznaia"
+          }
+        },
+        {
+          "names": {
+            "ar": "جبهة",
+            "en": "Jebha",
+            "fr": "Jebha"
+          }
+        },
+        {
+          "names": {
+            "ar": "خميس سهل",
+            "en": "Khemis Sahel",
+            "fr": "Khémis Sahel"
+          }
+        },
+        {
+          "names": {
+            "ar": "القصر الكبير",
+            "en": "Ksar El Kebir",
+            "fr": "Ksar El Kébir"
+          }
+        },
+        {
+          "names": {
+            "ar": "العرائش",
+            "en": "Larache",
+            "fr": "Larache"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "M'diq",
+            "fr": "M'diq"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Martil",
+            "fr": "Martil"
+          }
+        },
+        {
+          "names": {
+            "ar": "مقريسات",
+            "en": "Moqrisset",
+            "fr": "Moqrisset"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Oued Laou",
+            "fr": "Oued Laou"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Oued Rmel",
+            "fr": "Oued Rmel"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Ouazzane",
+            "fr": "Ouazzane"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Point Cires",
+            "fr": "Point Cires"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Sidi Lyamani",
+            "fr": "Sidi Lyamani"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Sidi Mohamed ben Abdallah el-Raisuni",
+            "fr": "Sidi Mohamed ben Abdallah el-Raisuni"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Zinat",
+            "fr": "Zinat"
+          }
+        },
+        {
+          "names": {
+            "ar": "أجدير",
+            "en": "Ajdir",
+            "fr": "Ajdir"
+          }
+        },
+        {
+          "names": {
+            "ar": "الحسيمة",
+            "en": "Al Hoceima",
+            "fr": "Al Hoceïma"
+          }
+        },
+        {
+          "names": {
+            "ar": null,
+            "en": "Ait Hichem",
+            "fr": "Aït Hichem"
+          }
+        },
+        {
+          "names": {
+            "ar": "بني بوعياش",
+            "en": "Bni Bouayach",
+            "fr": "Bni Bouayach"
+          }
+        },
+        {
+          "names": {
+            "ar": "بني حذيفة",
+            "en": "Bni Hadifa",
+            "fr": "Bni Hadifa"
+          }
+        }
+      ]

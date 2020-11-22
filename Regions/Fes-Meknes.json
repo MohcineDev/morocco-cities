@@ -1,0 +1,373 @@
+[
+    {
+      "names": {
+        "ar": "فاس",
+        "en": "Fes",
+        "fr": "Fès"
+      }
+    },
+    {
+      "names": {
+        "ar": "عين شݣاݣ",
+        "en": "Ain Cheggag",
+        "fr": "Aïn Cheggag"
+      }
+    },
+    {
+      "names": {
+        "ar": "البهاليل",
+        "en": "Bhalil",
+        "fr": "Bhalil"
+      }
+    },
+    {
+      "names": {
+        "ar": "بولمان",
+        "en": "Boulemane",
+        "fr": "Boulemane"
+      }
+    },
+    {
+      "names": {
+        "ar": "المنزل",
+        "en": "El Menzel",
+        "fr": "El Menzel"
+      }
+    },
+    {
+      "names": {
+        "ar": "كيكو",
+        "en": "Guigou",
+        "fr": "Guigou"
+      }
+    },
+    {
+      "names": {
+        "ar": "إيموزار كندر",
+        "en": "Imouzzer Kandar",
+        "fr": "Imouzzer Kandar"
+      }
+    },
+    {
+      "names": {
+        "ar": "إموزار مرموشة",
+        "en": "Imouzzer Marmoucha",
+        "fr": "Imouzzer Marmoucha"
+      }
+    },
+    {
+      "names": {
+        "ar": "ميسور",
+        "en": "Missour",
+        "fr": "Missour"
+      }
+    },
+    {
+      "names": {
+        "ar": "مولاي يعقوب",
+        "en": "Moulay Yaacoub",
+        "fr": "Moulay Yaâcoub"
+      }
+    },
+    {
+      "names": {
+        "ar": "اولاد الطيب",
+        "en": "Ouled Tayeb",
+        "fr": "Ouled Tayeb"
+      }
+    },
+    {
+      "names": {
+        "ar": "اوطاط الحاج",
+        "en": "Outat El Haj",
+        "fr": "Outat El Haj"
+      }
+    },
+    {
+      "names": {
+        "ar": "رباط الخير",
+        "en": "Ribate El Kheir",
+        "fr": "Ribate El Kheir"
+      }
+    },
+    {
+      "names": {
+        "ar": "صفرو",
+        "en": "Sefrou",
+        "fr": "Séfrou"
+      }
+    },
+    {
+      "names": {
+        "ar": "السخينات",
+        "en": "Skhinate",
+        "fr": "Skhinate"
+      }
+    },
+    {
+      "names": {
+        "ar": "تفجيغت",
+        "en": "Tafajight",
+        "fr": "Tafajight"
+      }
+    },
+    {
+      "names": {
+        "ar": "مكناس",
+        "en": "Meknes",
+        "fr": "Meknès"
+      }
+    },
+    {
+      "names": {
+        "ar": "اݣوراي",
+        "en": "Agourai",
+        "fr": "Agourai"
+      }
+    },
+    {
+      "names": {
+        "ar": "أزرو",
+        "en": "Azrou",
+        "fr": "Azrou"
+      }
+    },
+    {
+      "names": {
+        "ar": "عين الجمعة",
+        "en": "Ain Jemaa",
+        "fr": "Aïn Jemaa"
+      }
+    },
+    {
+      "names": {
+        "ar": "عين الكرمة",
+        "en": "Ain Karma",
+        "fr": "Aïn Karma"
+      }
+    },
+    {
+      "names": {
+        "ar": "عين اللوح",
+        "en": "Ain Leuh",
+        "fr": "Aïn Leuh"
+      }
+    },
+    {
+      "names": {
+        "ar": null,
+        "en": "Ait Boubidmane",
+        "fr": "Aït Boubidmane"
+      }
+    },
+    {
+      "names": {
+        "ar": "عين تاوجطات",
+        "en": "Ain Taoujdate",
+        "fr": "Ain Taoujdate"
+      }
+    },
+    {
+      "names": {
+        "ar": "بوفكران",
+        "en": "Boufakrane",
+        "fr": "Boufakrane"
+      }
+    },
+    {
+      "names": {
+        "ar": "الحاجب",
+        "en": "El Hajeb",
+        "fr": "El Hajeb"
+      }
+    },
+    {
+      "names": {
+        "ar": "الحاج قدور",
+        "en": "El Haj Kaddour",
+        "fr": "El Haj Kaddour"
+      }
+    },
+    {
+      "names": {
+        "ar": "إيفران",
+        "en": "Ifrane",
+        "fr": "Ifrane"
+      }
+    },
+    {
+      "names": {
+        "ar": null,
+        "en": "M'haya",
+        "fr": "M'haya"
+      }
+    },
+    {
+      "names": {
+        "ar": null,
+        "en": "Moulay Idriss Zerhoun",
+        "fr": "Moulay Idriss Zerhoun"
+      }
+    },
+    {
+      "names": {
+        "ar": null,
+        "en": "Moussaoua",
+        "fr": "Moussaoua"
+      }
+    },
+    {
+      "names": {
+        "ar": null,
+        "en": "N'Zalat Bni Amar",
+        "fr": "N'Zalat Bni Amar"
+      }
+    },
+    {
+      "names": {
+        "ar": "موساوا",
+        "en": "Oued Ifrane",
+        "fr": "Oued Ifrane"
+      }
+    },
+    {
+      "names": {
+        "ar": "واد إيفران",
+        "en": "Sabaa Aiyoun",
+        "fr": "Sabaa Aiyoun"
+      }
+    },
+    {
+      "names": {
+        "ar": "سبع عيون",
+        "en": "Sebt Jahjouh",
+        "fr": "Sebt Jahjouh"
+      }
+    },
+    {
+      "names": {
+        "ar": null,
+        "en": "Sidi Addi",
+        "fr": "Sidi Addi"
+      }
+    },
+    {
+      "names": {
+        "ar": "تمحضيت",
+        "en": "Timahdite",
+        "fr": "Timahdite"
+      }
+    },
+    {
+      "names": {
+        "ar": null,
+        "en": "Tizguite",
+        "fr": "Tizguite"
+      }
+    },
+    {
+      "names": {
+        "ar": "تولال",
+        "en": "Toulal",
+        "fr": "Toulal"
+      }
+    },
+    {
+      "names": {
+        "ar": null,
+        "en": "Zaouia d'Ifrane",
+        "fr": "Zaouia d'Ifrane"
+      }
+    },
+    {
+      "names": {
+        "ar": null,
+        "en": "Karia",
+        "fr": "Karia"
+      }
+    },
+    {
+      "names": {
+        "ar": "أكنول",
+        "en": "Aknoul",
+        "fr": "Aknoul"
+      }
+    },
+    {
+      "names": {
+        "ar": "غفساي",
+        "en": "Ghafsai",
+        "fr": "Ghafsai"
+      }
+    },
+    {
+      "names": {
+        "ar": "قرية با محمد",
+        "en": "Karia Ba Mohamed",
+        "fr": "Karia Ba Mohamed"
+      }
+    },
+    {
+      "names": {
+        "ar": null,
+        "en": "Oued Amlil",
+        "fr": "Oued Amlil"
+      }
+    },
+    {
+      "names": {
+        "ar": "أولاد ازباير",
+        "en": "Oulad Zbair",
+        "fr": "Oulad Zbair"
+      }
+    },
+    {
+      "names": {
+        "ar": "تاهلا",
+        "en": "Tahla",
+        "fr": "Tahla"
+      }
+    },
+    {
+      "names": {
+        "ar": "تاونات",
+        "en": "Taounate",
+        "fr": "Taounate"
+      }
+    },
+    {
+      "names": {
+        "ar": "تازة",
+        "en": "Taza",
+        "fr": "Taza"
+      }
+    },
+    {
+      "names": {
+        "ar": "تيناست",
+        "en": "Tainaste",
+        "fr": "Taïnaste"
+      }
+    },
+    {
+      "names": {
+        "ar": "ظهر السوق",
+        "en": "Thar Es-Souk",
+        "fr": "Thar Es-Souk"
+      }
+    },
+    {
+      "names": {
+        "ar": "تيسة",
+        "en": "Tissa",
+        "fr": "Tissa"
+      }
+    },
+    {
+      "names": {
+        "ar": null,
+        "en": "Tizi Ouasli",
+        "fr": "Tizi Ouasli"
+      }
+    }
+  ]
